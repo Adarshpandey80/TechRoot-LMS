@@ -55,15 +55,8 @@ const videoLessons = [
     level: "Intermediate",
     videoUrl: "/videos/lesson6.mp4",
   },
-  {
-    id: 8,
-    course: "Data Analytics",
-    title: "Data Analytics Overview",
-    thumbnail: "/images/da.jpeg",
-    duration: "14:10",
-    level: "Beginner to Intermediate",
-    videoUrl: "/videos/lesson7.mp4",
-  },
+  
+   
   {
     id: 9,
     course: "Data Science",
