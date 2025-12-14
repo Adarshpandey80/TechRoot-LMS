@@ -1,0 +1,8 @@
+
+
+
+
+@import "tailwindcss";
+.nav-item {
+  @apply p-2 rounded hover:bg-purple-100 transition;
+}

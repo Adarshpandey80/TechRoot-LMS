@@ -1,0 +1,88 @@
+const videoLessons = [
+
+  {
+    id: 2,
+    course: "Full Stack Development (MERN)",
+    title: "React Fundamentals",
+    thumbnail: "/images/mern.avif",
+    duration: "18:45",
+    level: "Beginner to Intermediate",
+    videoUrl: "/videos/lesson1.mp4",
+  },
+
+  {
+    id: 3,
+    course: "Full Stack Development (Python)",
+    title: "Django Basics",
+    thumbnail: "/images/python3.webp",
+    duration: "17:10",
+    level: "Beginner to Intermediate",
+    videoUrl: "/videos/lesson2.mp4",
+  },
+  {
+    id: 4,
+    course: "JavaScript",
+    title: "JavaScript Basics",
+    thumbnail: "/images/js.jpg",
+    duration: "15:00",
+    level: "Beginner",
+    videoUrl: "/videos/lesson3.mp4",
+  },
+    {
+    id: 5,
+    course: "Full Stack Development (MERN)",
+    title: "MERN Stack Overview",
+    thumbnail: "/images/mern.avif",
+    duration: "12:30",
+    level: "Beginner",
+    videoUrl: "/videos/lesson4.mp4",
+  },
+  {
+    id: 6,
+    course: "AI Generalist",
+    title: "Introduction to Artificial Intelligence",
+    thumbnail: "/images/AI.avif",
+    duration: "13:40",
+    level: "Beginner",
+    videoUrl: "/videos/lesson5.mp4",
+  },
+  {
+    id: 7,
+    course: "Generative AI",
+    title: "What is Generative AI?",
+    thumbnail: "/images/gai.webp",
+    duration: "16:55",
+    level: "Intermediate",
+    videoUrl: "/videos/lesson6.mp4",
+  },
+  {
+    id: 8,
+    course: "Data Analytics",
+    title: "Data Analytics Overview",
+    thumbnail: "/images/da.jpeg",
+    duration: "14:10",
+    level: "Beginner to Intermediate",
+    videoUrl: "/videos/lesson7.mp4",
+  },
+  {
+    id: 9,
+    course: "Data Science",
+    title: "Introduction to Data Science",
+    thumbnail: "/images/ds.jpg",
+    duration: "19:30",
+    level: "Intermediate",
+    videoUrl: "/videos/lesson8.mp4",
+  },
+  {
+    id: 10,
+    course: "Digital Marketing",
+    title: "Digital Marketing Basics",
+    thumbnail: "/images/dm.jpg",
+    duration: "12:50",
+    level: "Beginner",
+    videoUrl: "/videos/lesson9.mp4",
+  },
+    
+];
+
+export default videoLessons;
